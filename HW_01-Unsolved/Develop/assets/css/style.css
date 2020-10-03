@@ -86,6 +86,8 @@ p {
     background-color: #2589bd
 }
 
+/* grouped the benefits*/
+
 .benefit-lead, 
 .benefit-brand, 
 .benefit-cost {
@@ -113,16 +115,18 @@ p {
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 353px;
+    height: 320px;
     font-family: 'Gill Sans', 'Gill Sans MT';
     background-color: #0072bb;
     color: #ffffff;
 }
 
+/* grouped the images*/
+
 .search-engine-optimization img, 
 .online-reputation-management img,
 .social-media-marketing img {
-    max-height: 200px;
+    max-height: 150px;
 }
 
 .search-engine-optimization h2,
